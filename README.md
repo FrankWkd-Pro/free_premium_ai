@@ -78,6 +78,14 @@
 
 免费额度： 手机号登陆，每天 200 次调用，需要实名认证
 
+### Gemini 商业版
+
+链接：[商业版 Gemini](https://business.gemini.google/)
+
+高级模型：Gemini 3 Pro，Gemini 3.1 Pro
+
+免费额度：邮箱注册即可免费使用30天
+
 ### Chatanywhere.tech
 
 链接：[Chatanywhere.tech](https://github.com/chatanywhere/GPT_API_free)
